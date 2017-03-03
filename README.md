@@ -1,4 +1,4 @@
-# AppleDeveloperSystemStatus
+# Apple Developer System Status
 Check Apple Developer System Status with Ruby.
 
 ## Usage
