@@ -1,0 +1,150 @@
+{
+  "drpost": false,
+  "drMessage": null,
+  "services": [
+    {
+      "serviceName": "Account",
+      "events": [
+
+      ],
+      "redirectUrl": "https:\/\/developer.apple.com\/account\/"
+    },
+    {
+      "serviceName": "APNS",
+      "events": [
+
+      ],
+      "redirectUrl": "https:\/\/developer.apple.com\/notifications\/"
+    },
+    {
+      "serviceName": "APNS Sandbox",
+      "events": [
+
+      ],
+      "redirectUrl": "https:\/\/developer.apple.com\/notifications\/"
+    },
+    {
+      "serviceName": "Apple Developer Forums",
+      "events": [
+
+      ],
+      "redirectUrl": "https:\/\/forums.developer.apple.com"
+    },
+    {
+      "serviceName": "Apple News API",
+      "events": [
+
+      ],
+      "redirectUrl": null
+    },
+    {
+      "serviceName": "Apple Pay",
+      "events": [
+
+      ],
+      "redirectUrl": "https:\/\/developer.apple.com\/apple-pay\/"
+    },
+    {
+      "serviceName": "Bug Reporter",
+      "events": [
+
+      ],
+      "redirectUrl": "https:\/\/bugreport.apple.com\/"
+    },
+    {
+      "serviceName": "Certificates, Identifiers & Profiles",
+      "events": [
+
+      ],
+      "redirectUrl": "https:\/\/developer.apple.com\/account\/"
+    },
+    {
+      "serviceName": "CloudKit Dashboard",
+      "events": [
+
+      ],
+      "redirectUrl": "https:\/\/icloud.developer.apple.com\/dashboard"
+    },
+    {
+      "serviceName": "Code-level Support",
+      "events": [
+
+      ],
+      "redirectUrl": "https:\/\/developer.apple.com\/account\/?view=support"
+    },
+    {
+      "serviceName": "Developer Documentation",
+      "events": [
+
+      ],
+      "redirectUrl": "https:\/\/developer.apple.com\/reference"
+    },
+    {
+      "serviceName": "iTunes Connect",
+      "events": [
+
+      ],
+      "redirectUrl": "https:\/\/itunesconnect.apple.com\/"
+    },
+    {
+      "serviceName": "iTunes Sandbox",
+      "events": [
+
+      ],
+      "redirectUrl": null
+    },
+    {
+      "serviceName": "News Publisher",
+      "events": [
+
+      ],
+      "redirectUrl": "https:\/\/developer.apple.com\/news-publisher\/"
+    },
+    {
+      "serviceName": "Program Enrollment and Renewals",
+      "events": [
+
+      ],
+      "redirectUrl": "https:\/\/developer.apple.com\/enroll\/"
+    },
+    {
+      "serviceName": "Software Downloads",
+      "events": [
+
+      ],
+      "redirectUrl": "https:\/\/developer.apple.com\/download\/"
+    },
+    {
+      "serviceName": "TestFlight",
+      "events": [
+        {
+          "eventStatus": "resolved",
+          "usersAffected": "Some users were affected",
+          "messageId": "1760",
+          "epochStartDate": 1488303600000,
+          "epochEndDate": 1488317700000,
+          "startDate": "02\/28\/2017 09:40 PST",
+          "endDate": "02\/28\/2017 13:35 PST",
+          "statusType": "Issue",
+          "datePosted": "03\/03\/2017 01:00 PST",
+          "message": "Users experienced a problem with the service listed above."
+        }
+      ],
+      "redirectUrl": "https:\/\/developer.apple.com\/testflight\/"
+    },
+    {
+      "serviceName": "Videos",
+      "events": [
+
+      ],
+      "redirectUrl": "https:\/\/developer.apple.com\/videos\/"
+    },
+    {
+      "serviceName": "Xcode Automatic Configuration",
+      "events": [
+
+      ],
+      "redirectUrl": "https:\/\/developer.apple.com\/xcode\/"
+    }
+  ]
+}
